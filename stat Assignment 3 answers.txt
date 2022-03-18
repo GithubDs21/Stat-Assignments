@@ -1,0 +1,19 @@
+Statistics Assignment 3
+1. Write the Gaussian Distribution empirical formula.
+answer: 1 standard deviation=68%  , 2nd standard deviation=95% & 3rd standard deviation=99.7% 
+-----------------------------------------------------------------------------------------------
+2. What is the Z-score, and why is it important?
+Answer : Z-score indicates, how much a given value differs from the standard deviation 
+        it enables us to compare two scores that are from different samples (which may have different means and standard deviations)    
+--------------------------------------------------------------------------------------------------
+3. What is an outlier, exactly?
+answer : the Data points which are not normal like extremly high value or extremly less value which means they are very far from the mean.  
+--------------------------------------------------------------------------------------------------------------------
+4. What are our options for dealing with outliers in our dataset?
+answer : remove the records.
+
+5. Write the sample and population variances equations and explain Bessel Correction.
+  Sample mean x̄ = ( Σ xi ) / n 
+& population mean =μ = (Σ * X)/ N
+
+Bessel's correction is the use of n − 1 instead of n in the formula for the sample variance and sample standard deviation,[1] where n is the number of observations in a sample. This method corrects the bias in the estimation of the population variance
