@@ -1,0 +1,41 @@
+Tableau Assignment 1
+1. What exactly is Tableau?
+
+Answer :Visual analytics platform transfering the the way we use our data
+
+-------------------------------------------------------------------------------------------
+2. What are the different Tableau products available?
+
+Answer : Tableau Desktop, Tableau server, Tableau public,Tableau Reader
+
+-------------------------------------------------------------------------------------------
+3. In Tableau, how many tables can you join at once?
+
+Answer : 32 Tables can be joined.
+
+--------------------------------------------------------------------------------------------
+4. What are the various types of connections you may establish with Tableau and your dataset?
+
+answer : There are 2 types of connection 1- Live , 2-Extract
+         And there are so many dataformats can be connect to tablau ( like -excel, csv,jason,sql etc) 
+ 
+PROBLEM WITH PRACTICE
+https://www.kaggle.com/juhi1994/superstore Data: US Superstore
+Data Link: https://www.kaggle.com/juhi1994/superstore
+----------------------------------------------------------------------------------------------
+5. Analyze and respond to the following questions using the information provided.
+--------------------------------------------------------------------------------------------
+6. What is the store's overall revenue?
+
+Answer : Category	Sub-Category	Sales
+             All	All	      $2297201
+
+
+---------------------------------------------------------------------------------------------
+7. What is the total amount of furniture sold to the Customer Segment "Corporate"?
+
+Answer : $229020
+
+
+---------------------------------------------------------------------------------------------
+8. Calculate the average discount for each order priority and choose the one with the most significant value.

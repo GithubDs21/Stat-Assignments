@@ -1,0 +1,33 @@
+                                                    Tableau Assignment 2
+
+
+
+1. What is Tableau Data Engine?
+ Answer  : Hyper
+________________________________________________________________________________________________________________________
+2. How to create a calculated field in Tableau?
+Answer : In Tableau > select Analysis tab & click on calculated field   
+
+________________________________________________________________________________________________________________________
+3. Can you tell the differences between TreeMap and Heat Map?
+Answer : Heat Map is a two-dimensional representation of information with the help of colors. Whereas, TreeMap is a hierarchical structure of data
+
+________________________________________________________________________________________________________________________
+4. What are the components of a dashboard?
+Vertical
+Horizontal
+download
+Text
+Floating
+Image for background or Image extract
+
+________________________________________________________________________________________________________________________
+5. Based on the given data, analyse and answer the following questions
+
+a. How much sales have come from customers from the previous in the current year in terms of Sales Value?
+did not understand
+b. How much sales have come from customers from the previous in the current year in terms of Sales Percentage?
+did not understand
+
+c. Find the orders placed by each customer. 
+  Total 9994 orders
