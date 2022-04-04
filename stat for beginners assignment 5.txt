@@ -1,0 +1,20 @@
+Statistics Assignment 5
+
+
+1. How are you going to figure out the average heights of all the trees in Karnataka?
+
+Answer :Average or mean of the sample
+------------------------------------------------------------------------------------------------------
+
+2. What is hypothesis testing and how does it work?
+Answer : Hypothesis testing allows the researcher to determine whether the data from the sample is statistically significant
+The test provides evidence concerning the plausibility of the hypothesis, given the data. Statistical analysts test a hypothesis by measuring and examining a random sample of the population being analyzed.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Explain the differences between Alpha and Beta errors. Which inaccuracy is the most hazardous?
+
+4. What is the significance of the p-value?
+Answer : A p-value is a measure of the probability that an observed difference could have occurred just by random chance. The lower the p-value, the greater the statistical significance of the observed difference
+-------------------------------------------------------------------------------------------------------------------------
+5. What is the Probability Distribution Function and how does it work?
+Answer : a statistical function that describes all the possible values and likelihoods that a random variable can take within a given range.
