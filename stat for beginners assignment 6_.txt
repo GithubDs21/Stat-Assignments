@@ -1,0 +1,21 @@
+Statistics Assignment 6
+
+1. What is a Cumulative Distribution Function, and how does it work?
+The cumulative distribution function (CDF) calculates the cumulative probability for a given x-value. Use the CDF to determine the probability that a random observation that is taken from the population will be less than or equal to a certain value
+
+------------------------------------------------------------------------
+2. When should we use a t-test vs a z-test?
+
+As mentioned, a t-test is primarily used for research with limited sample sizes whereas a z-test is deployed for hypothesis testing that requires researchers to look at a population size that's larger than 30
+------------------------------------------------------------------------
+3. How do we examine two category characteristics?
+ Answer : If both features are contineous then how their relationship is.And if they are categorical features, we can use ANOVA or BOXPLOT.
+
+
+------------------------------------------------------------------------
+4. Explain the concept of Chebyshev's Inequality.
+Answer :within two standard deviations away from the mean contains 75% of the values, and within three standard deviations away from the mean contains 88.9% of the values
+
+------------------------------------------------------------------------
+5. Explain the concept of Pareto Distribution
+Answer : Major consequesnse happen because of minor things.like 80% disadvantages becuase of 20% causes.
