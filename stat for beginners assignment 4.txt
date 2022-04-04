@@ -1,0 +1,21 @@
+Statistics Assignment 4
+
+1. What is the definition of covariance? Create the formula for it.
+Answer : Covarieance is a directional relationship between two variables.
+
+cov(X,Y)= ∑ ( X i − X ¯ ) ( Y i − Y ¯ ) n.
+
+---------------------------------------------------------------------------------------------------------------
+2. What makes Correlations better than Covariance?
+correlation removes the effect of the variance of the variables, it provides a standardized, absolute measure of the strength of the relationship
+----------------------------------------------------------------------------------------------------------------
+3. Explain the process as well as Pearson and Spearman Correlation.
+Answer : Person -measures the strength of the linear relationship between two variables
+         and Spearsman-to evaluate relationships involving ordinal variables
+------------------------------------------------------------------------------------------------------------------------
+4. What are the advantages of Spearman Correlation over Pearson Correlation?
+Answer -the X and Y values can be continuous or ordinal, and approximate normal distributions for X and Y are not required.
+
+--------------------------------------------------------------------------------------------------------
+5. Describe the Central Limit Theorem.
+Answer -the distribution of sample means approximates a normal distribution as the sample size gets larger, regardless of the population's distribution
